@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+E:\ClothesDay\JSP\Clothesday\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\715271464.index
+\ROOT\src\main\java
+E:\ClothesDay\JSP\Clothesday\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3554476487.index
+\ROOT\src\main\java
+E:\ClothesDay\JSP\Clothesday\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\66946233.index
+\ROOT\src\main\java
+E:\ClothesDay\JSP\Clothesday\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2553523130.index
+\ROOT\src\main\java
+E:\ClothesDay\JSP\Clothesday\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3112576417.index
+\ROOT\src\main\java
+E:\ClothesDay\JSP\Clothesday\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1608522259.index
+\ROOT\src\main\java

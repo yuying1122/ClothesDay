@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+E:\ClothesDay\JSP\Clothesday\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index

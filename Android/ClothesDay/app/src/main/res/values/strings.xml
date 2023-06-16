@@ -1,0 +1,5 @@
+<resources>
+    <!-- strings.xml -->
+    <string name="app_name">옷날°C</string>
+    <string name="post_report"> <u>신고하기</u></string>
+</resources>
